@@ -1,0 +1,29 @@
+
+// @import "../../assets/css/fonts.scss";
+
+$main-color: #ff5d22;
+$default-color:#E45525;
+$white-color: #ffffff;
+$black-color: #221638;
+$optional-color: #6b6b84;
+$font-size: 17px;
+$transition: .5s;
+$form-color:#505050;
+$formtxt-color:#B6B6B6;
+$border-color:#B7B7B7;
+
+/*Font family*/
+$font-family: "Open Sans", sans-serif;
+$font-family-OpenSans-bold: 'OpenSansBold', sans-serif;
+$font-family-OpenSans-semibold: 'OpenSansSemiBold', sans-serif;
+$font-family-OpenSans-regular: 'OpenSansRegular', sans-serif;
+$font-family-OpenSans-medium: 'OpenSansMedium', sans-serif;
+
+/*Responsive screen width*/
+$xs: 590px;
+$sm-x: 768px;
+$sm-xs: 375px;
+$sm: 767px;
+$md: 992px;
+$lg: 1200px;
+$xl: 1500px;

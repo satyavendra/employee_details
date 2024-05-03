@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Regular";   /*Can be any text*/
+    src: local("OpenSans-Regular"),
+      url("./assets/fonts/OpenSans-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Medium";   /*Can be any text*/
+    src: local("OpenSans-Medium"),
+      url("./assets/fonts/OpenSans-Medium.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "SemiBold";   /*Can be any text*/
+    src: local("OpenSans-SemiBold"),
+      url("./assets/fonts/OpenSans-SemiBold.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Bold";   /*Can be any text*/
+    src: local("OpenSans-Bold"),
+      url("./assets/fonts/OpenSans-Bold.ttf") format("truetype");
+  }

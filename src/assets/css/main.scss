@@ -1,0 +1,29 @@
+@import '../../assets/css/customvariable.scss';
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.login-sec{
+    padding: 3rem 0;
+    .login-card-center{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            .login-card{
+                max-width: 400px;
+                margin: 0 auto;
+                border: 1px solid #dee2e6;
+                padding:1rem;
+                border-radius: 0.5rem;
+                .page-ttl{
+                    border-bottom: 1px solid #dee2e6;
+                    h2{
+                        font-size: 24px;
+                        font-weight: 600;
+                    }
+                }
+            }
+}
+}
